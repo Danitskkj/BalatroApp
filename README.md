@@ -5,11 +5,10 @@
 ## Sobre o Projeto
 
 BalatroApp é um aplicativo de consulta baseado no jogo Balatro, um roguelike de poker onde os
-jogadores constroem estratégias usando curingas (jokers) com diferentes habilidades para multiplicar
+jogadores constroem estratégias usando curingas com diferentes habilidades para multiplicar
 pontuações.
 
-Este aplicativo foi desenvolvido como trabalho para a disciplina de Desenvolvimento de Aplicativos
-Móveis, com o objetivo de criar uma interface de usuário funcional utilizando Flutter.
+Este aplicativo foi desenvolvido como trabalho para a disciplina de Algoritmos e Programação III, com o objetivo de criar uma interface de usuário funcional utilizando Flutter ao longo dos 3 trimestres.
 
 ## Tema Escolhido
 
@@ -134,4 +133,4 @@ as diferentes cartas do jogo, suas raridades, efeitos e custos.
 
 - Implementação das telas de Tarô e Planetas
 - Banco de dados completo com todas as cartas
-- Sistema de login e sincronização
+- Sistema de login 
