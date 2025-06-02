@@ -23,3 +23,8 @@ flutter:
   assets:
     - assets/balatro.png
     - assets/perfil.png
+    - assets/jokers/joker.png
+    - assets/jokers/curinga_guloso.png
+    - assets/jokers/meio_curinga.png
+    - assets/jokers/mimico.png
+    - assets/jokers/fibonacci.png
